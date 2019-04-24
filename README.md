@@ -80,6 +80,8 @@ _Web开发框架_
 *   Nette： 另一个由个体组件组成的框架 [官网](http://nette.org/)
 *   PPI Framework 2：一个互操作性框架 [官网](http://www.ppi.io/)
 *   [Phalcon](http://hao.jobbole.com/phalcon/)：通过C扩展实现的框架 [官网](http://phalconphp.com/en/)、[Github](https://github.com/phalcon/cphalcon)
+*	CI： 简化版PHP开发框架 [官网](https://codeigniter.com/)
+*	ThinkPHP： 国产全功能PHP框架 [官网](http://www.thinkphp.cn//)
 
 ## 其他框架
 
@@ -211,6 +213,9 @@ _处理图像的库_
 *   GIF Creator：一个通过多张图片创建GIF动画的库 [官网](https://github.com/Sybio/GifCreator)
 *   Image With Text：一个在图像中嵌入文本的库 [官网](https://github.com/nmcteam/image-with-text)
 *   Color Extractor：一个从图像中提取颜色的库 [官网](https://github.com/php-loep/color-extractor)
+*   GD：最常用的图像处理库 [官网](https://github.com/libgd/libgd)
+*   Imagick: 功能强大的图像处理库 [官网](http://www.imagemagick.org/)
+
 
 ## 测试
 
@@ -255,6 +260,7 @@ _生成项目文档的库_
 *   APIGen：另一个API文档生成器 [官网](https://github.com/apigen/apigen)
 *   PHP Documentor 2：一个API文档生成器 [官网](https://github.com/phpDocumentor/phpDocumentor2)
 *   phpDox：一个PHP项目的文档生成器（不限于API文档） [官网](http://phpdox.de/)
+*   apidoc: 可调试的注释API文档生成 [官网](http://apidocjs.com/)
 
 ## 安全
 
@@ -327,6 +333,7 @@ _项目构建和自动化工具_
 *   Phake：一个PHP克隆库 [官网](https://github.com/jaz303/phake)
 *   Box：一个构建PHAR文件的工具 [官网](https://github.com/kherge/Box)
 *   Phing：一个灵感来自于Apache Ant的PHP项目构建系统 [官网](http://www.phing.info/)
+*   jenkins: 一个集成构建工具 [官网](https://jenkins.io/)
 
 ## 任务运行器
 
@@ -407,6 +414,7 @@ _处理PDF文件的库和软件_
 
 *   Snappy：一个PDF和图像生成器库 [官网](https://github.com/KnpLabs/snappy)
 *   WKHTMLToPDF：一个将HTML转换为PDF的工具 [官网](https://github.com/antialize/wkhtmltopdf)
+*   TCPDF：一个PDF和二维码的生成库 [官网](https://tcpdf.org/)
 
 ## 数据库
 
@@ -447,6 +455,7 @@ _处理事件和任务队列的库_
 *   HP AMQP：一个纯PHP AMQP库 [P官网](https://github.com/videlalvaro/php-amqplib)
 *   Thumper： 一个RabbitMQ模式库 [官网](https://github.com/videlalvaro/Thumper)
 *   Bernard：一个多后端抽象库 [官网](https://github.com/bernardphp/bernard)
+
 
 ## 搜索
 
@@ -559,6 +568,7 @@ _缓存数据的库_
 *   Alternative PHP Cache (APC)：打开PHP伪代码缓存 [官网](http://www.php.net/manual/en/book.apc.php)
 *   Cache：一个缓存库（Doctrine部分） [官网](https://github.com/doctrine/cache)
 *   Stash：另一个缓存库 [官网](https://github.com/tedivm/Stash)
+*   Memcached：一个缓存数据库结果集的库 [官网](https://memcached.org/)
 
 ## 数据结构和存储
 
@@ -699,6 +709,7 @@ _创建沙盒开发环境的软件和工具_
 *   PuPHPet：一个构建PHP开发虚拟机的web工具 [官网](https://puphpet.com/)
 *   Protobox：另一个构建PHP开发虚拟机的web工具 [官网](http://getprotobox.com/)
 *   Phansible：一个用Ansible构建PHP开发虚拟机的web工具 [官网](http://phansible.com/)
+*   PhpStudy: 一个国产的优秀PHP开放环境工具 [官网](http://phpstudy.php.cn/)
 
 ## 虚拟机
 
@@ -716,6 +727,7 @@ _支持PHP的集成开发环境_
 *   Eclipse for PHP Developers：一个基于Eclipse平台的PHP IDE [官网](https://www.eclipse.org/downloads/)
 *   [PhpStorm](http://hao.jobbole.com/phpstorm/)：一个商业PHP IDE [官网](http://www.jetbrains.com/phpstorm/)
 *   [Sublime Text] ：一个轻量级的PHP IDE [官网](http://www.sublimetext.com/)
+*   Notepad++: 一个windows下的快速文本编辑器 [官网] (https://notepad-plus-plus.org/)
 
 ## Web应用
 
